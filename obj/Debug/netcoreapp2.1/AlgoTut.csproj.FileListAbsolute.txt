@@ -1,0 +1,11 @@
+C:\Users\Olufemi\Documents\xam_cert\AlgoTut\obj\Debug\netcoreapp2.1\AlgoTut.csprojAssemblyReference.cache
+C:\Users\Olufemi\Documents\xam_cert\AlgoTut\obj\Debug\netcoreapp2.1\AlgoTut.csproj.CoreCompileInputs.cache
+C:\Users\Olufemi\Documents\xam_cert\AlgoTut\obj\Debug\netcoreapp2.1\AlgoTut.AssemblyInfoInputs.cache
+C:\Users\Olufemi\Documents\xam_cert\AlgoTut\obj\Debug\netcoreapp2.1\AlgoTut.AssemblyInfo.cs
+C:\Users\Olufemi\Documents\xam_cert\AlgoTut\bin\Debug\netcoreapp2.1\AlgoTut.deps.json
+C:\Users\Olufemi\Documents\xam_cert\AlgoTut\bin\Debug\netcoreapp2.1\AlgoTut.runtimeconfig.json
+C:\Users\Olufemi\Documents\xam_cert\AlgoTut\bin\Debug\netcoreapp2.1\AlgoTut.runtimeconfig.dev.json
+C:\Users\Olufemi\Documents\xam_cert\AlgoTut\bin\Debug\netcoreapp2.1\AlgoTut.dll
+C:\Users\Olufemi\Documents\xam_cert\AlgoTut\bin\Debug\netcoreapp2.1\AlgoTut.pdb
+C:\Users\Olufemi\Documents\xam_cert\AlgoTut\obj\Debug\netcoreapp2.1\AlgoTut.dll
+C:\Users\Olufemi\Documents\xam_cert\AlgoTut\obj\Debug\netcoreapp2.1\AlgoTut.pdb
