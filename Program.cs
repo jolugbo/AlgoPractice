@@ -6,9 +6,10 @@ namespace AlgoTut
     {
         static void Main(string[] args)
         {
-            AlgoTut1 est = new AlgoTut1();
-            est.ArrayTest();
-            Console.WriteLine("Hello World!");
+            // AlgoTut1 est = new AlgoTut1();
+            // est.ArrayTest();
+            StringClass newString = new StringClass();
+            newString.StringMethod();
         }
     }
 }
